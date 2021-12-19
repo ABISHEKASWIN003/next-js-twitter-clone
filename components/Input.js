@@ -84,7 +84,7 @@ function Input() {
     >
       <img
         src={session.user.image}
-        className="h-11 w-11 rounded-full cursor-pointer"
+        className="h-12 w-12 rounded-full cursor-pointer "
       />
       <div className="w-full divide-y divide-gray-700">
         <div
